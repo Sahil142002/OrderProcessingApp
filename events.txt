@@ -1,0 +1,5 @@
+OrderCreated,1,CUST1,item1|item2,100.0
+PaymentReceived,1,100.0
+ShippingScheduled,1
+OrderCreated,2,CUST2,item3|item4,50.0
+OrderCancelled,2
